@@ -1,0 +1,32 @@
+.body{
+    font: times, arial, serif;
+}
+.navbar-expand-lg{
+    background-color: rgb(10, 58, 10);
+}
+
+.quem-somos{
+    background-color: rgb(97, 62, 62);
+    color:white;
+
+}
+.margin{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.serviços{
+    background-color: rgb(206, 190, 190);
+    color:white;
+
+
+}
+.contatos{
+    background-color: rgb(42, 36, 36);
+    color:white;
+
+
+}
+.bg-footer{
+    background-color: rgb(233, 214, 214);
+    color:white;
+}
